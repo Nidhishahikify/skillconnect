@@ -110,3 +110,5 @@ This repo is safe to push publicly as-is — `lib/firebase/firebase_options.dart
 and `lib/core/constants/api_keys.dart` contain **placeholder values only**.
 Never commit a version of those files with real secrets; prefer
 `--dart-define` (as above) or a CI/CD secret manager for production builds.
+
+**Live demo:** https://skillhubz-83837.web.app
