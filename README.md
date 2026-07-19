@@ -7,15 +7,6 @@ AI-generated feedback summaries.
 > This repo ships with **no real API keys or credentials** — see
 > [Configuration](#configuration) below before running it.
 
-## Screenshots
-
-| Login | Signup | Home |
-|---|---|---|
-| ![login](screenshots/login.png) | ![signup](screenshots/signup.png) | ![home](screenshots/home.png) |
-
-| Booking | Profile | Feedback |
-|---|---|---|
-| ![booking](screenshots/booking.png) | ![profile](screenshots/profile.png) | ![feedback](screenshots/feedback.png) |
 
 ## Features
 
